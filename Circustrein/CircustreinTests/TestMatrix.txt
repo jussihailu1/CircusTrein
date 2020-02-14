@@ -1,0 +1,20 @@
+﻿Voor een duidelijker beeld, zie word document in bestand.
+
+	C1	C3	C5	H1	H3	H5	
+C1	F	X	X	X	X	X
+C3	F	F	X	X	X	X
+C5	F	F	F	X	X	X
+H1	F	F	F	T	X	X
+H3	T	F	F	T	T	X
+H5	T	T	F	T	T	T
+
+
+T = Wanneer het voor beide dieren veilig is.
+F = Wanneer het voor mistens een van de dieren niet veilig is.
+X = Deze wordt al getest.
+
+Totale T's = 9
+Totale F's = 12
+
+Wanneer beide dieren (dus op de x-as en y-as) hetzelfde zijn, is het niet nodig om de situatie van beide kanten te testen. (Singles)
+De rest wordt dus wel van beide kanten getest. (Doubles)
